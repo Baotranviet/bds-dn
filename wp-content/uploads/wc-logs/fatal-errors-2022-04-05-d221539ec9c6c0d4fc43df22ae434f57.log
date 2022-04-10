@@ -1,0 +1,4 @@
+2022-04-05T08:59:39+00:00 CRITICAL Curl failed with error #400: {"error": {"code": "VALIDATION_ERROR", "description": "'Bearer' does not match '^(?i)Bearer [A-Za-z0-9\\\\-\\\\_]{128}$'", "field": "Authorization", "instance": "Bearer"}} in /Applications/MAMP/htdocs/bds-da-nang/wp-content/plugins/wp-realestate/includes/class-property-yelp.php on line 70
+
+2022-04-05T13:04:10+00:00 CRITICAL Curl failed with error #400: {"error": {"code": "VALIDATION_ERROR", "description": "'Bearer' does not match '^(?i)Bearer [A-Za-z0-9\\\\-\\\\_]{128}$'", "field": "Authorization", "instance": "Bearer"}} in /Applications/MAMP/htdocs/bds-da-nang/wp-content/plugins/wp-realestate/includes/class-property-yelp.php on line 70
+

@@ -1,0 +1,147 @@
+
+---Downloaded files---
+The import files for: Home were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/bds-da-nang
+Data file = /Applications/MAMP/htdocs/bds-da-nang/wp-content/themes/homeo/inc/vendors/one-click-demo-import/data/dummy-data.xml
+Widget file = /Applications/MAMP/htdocs/bds-da-nang/wp-content/themes/homeo/inc/vendors/one-click-demo-import/data/widgets.wie
+Customizer file = not defined!
+Redux files:
+homeo_theme_options -> /Applications/MAMP/htdocs/bds-da-nang/wp-content/themes/homeo/inc/vendors/one-click-demo-import/data/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Sidebar Default : 
+
+Tìm kiếm - No Title - Imported
+Bài viết mới - No Title - Imported
+Phản hồi gần đây - No Title - Imported
+
+Properties filter sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+Apus Simple Properties List - Latest Properties - Imported
+
+Properties filter sidebar fixed : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+
+Properties filter Top sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+
+Properties filter Top Half Map : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+
+Property single sidebar : 
+
+Property Detail:: Contact Form - Contact %1s - Imported
+Apus Show Elementor Template Widget - No Title - Imported
+Apus Simple Properties List - Latest Properties - Imported
+Private Message Form - Send Message to %1s - Imported
+Apus Mortgage Calculator Widget - Mortgage Calculator - Imported
+
+Agents filter sidebar : 
+
+Agency Filter - Find Agent - Imported
+Apus Simple Properties List - Latest Properties - Imported
+
+Agent single sidebar : 
+
+Agent|Agency Detail:: Contact Form - Contact %1s - Imported
+Agent Filter - Find Agents - Imported
+Private Message Form - Send Message to %1s - Imported
+
+Agencies filter sidebar : 
+
+Agency Filter - Find Agencies - Imported
+Apus Simple Properties List - Latest Properties - Imported
+
+Agency single sidebar : 
+
+Private Message Form - Send Message to %1s - Imported
+Agency Filter - Find Agencies - Imported
+Agent|Agency Detail:: Contact Form - Contact %1s - Imported
+
+User Profile sidebar : 
+
+Ảnh - No Title - Imported
+Apus User Short Profile - No Title - Imported
+
+Blog sidebar : 
+
+Apus Search Widget - No Title - Imported
+Chuyên mục - Categories - Imported
+Apus Simple Properties List - Latest Properties - Imported
+Mây Thẻ - Tags - Imported
+
+Shop sidebar : 
+
+Apus Search Widget - No Title - Imported
+Các danh mục sản phẩm - Product categories - Imported
+Danh sách các sản phẩm - Recent Products - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: homeo_theme_options finished successfully!
+
+---ocdi/after_import---
+

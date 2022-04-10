@@ -1,0 +1,4 @@
+[02-Jan-2022 16:11:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/letsferr/public_html/lilft.com/wp-content/themes/homeo/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/letsferr/public_html/lilft.com/wp-content/themes/homeo/index.php on line 17
